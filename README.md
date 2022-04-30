@@ -35,3 +35,6 @@ lets extract the dataset provided by kaggle: https://www.kaggle.com/datasets/shi
 -Download the dataset using opendatasets .
 -start importing the basic packages needed
 -try to store the data with the help of pd.read_csv 
+
+https://static.wixstatic.com/media/bce31c_de3cdfa1f3764c018c331825cd6bacc7~mv2.png/v1/crop/x_94,y_473,w_1126,h_374/fill/w_1125,h_374,al_c,q_90,enc_auto/Screenshot%20(253).png
+
