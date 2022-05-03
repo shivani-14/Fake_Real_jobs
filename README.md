@@ -28,13 +28,9 @@ fake or real jobs predictions
 ## Project Goal:->
 The main goal is to create a classifier that helps to identify which is real or fake.
 
-## Lets get started....
-
 ## Data extraction:
-lets extract the dataset provided by kaggle: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
--Download the dataset using opendatasets .
--start importing the basic packages needed
--try to store the data with the help of pd.read_csv 
+extract the dataset provided by kaggle: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+
 
 
 
